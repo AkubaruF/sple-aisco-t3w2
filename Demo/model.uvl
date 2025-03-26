@@ -1,0 +1,7 @@
+namespace Demo
+
+features
+	Demo {abstract true}
+		optional
+			Base
+
